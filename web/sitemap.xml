@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace example.com with the production domain before launch. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://example.com/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://example.com/about</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://example.com/leather</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://example.com/expertise</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://example.com/applications</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://example.com/collections</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://example.com/gallery</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://example.com/team</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://example.com/journal</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://example.com/contact</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
